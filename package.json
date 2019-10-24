@@ -1,7 +1,7 @@
 {
-  "name": "websockets",
+  "name": "multiplayer-paint",
   "version": "1.0.0",
-  "description": "Sockets com socket.io",
+  "description": "Jogo multiplayer usando websockets e node.js",
   "main": "index.js",
   "scripts": {
     "server": "node index.js"
