@@ -12,4 +12,4 @@ No terminal, rode o comando para instalar as dependências
 Para iniciar o servidor da aplicação:
 `node server.js`
   
- Abra um browser e acesse a URL: 127.0.0.1:3000
+ Abra um browser e acesse a URL: http://127.0.0.1:3000
