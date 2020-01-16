@@ -1,4 +1,4 @@
-const socket = io.connect('http://10.0.104:3000');
+const socket = io.connect('http://127.0.0.1:3000');
 
 function setup(){
     createCanvas(window.innerWidth, window.innerHeight);
